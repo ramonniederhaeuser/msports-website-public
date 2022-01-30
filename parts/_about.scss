@@ -1,0 +1,16 @@
+.section-about {
+  padding-top: $section-padding-top;
+  padding-bottom: $section-padding-bottom;
+
+  background-image:
+  linear-gradient(
+    rgba(0, 0, 0, 0.9),
+    rgba(0, 0, 0, 0.9)
+  ),
+  url("../img/about/msportsflag.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; 
+}
+
+

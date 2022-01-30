@@ -1,0 +1,17 @@
+/*Page Header*/
+@include media-breakpoint-down(lg) {
+  .header-logo-container {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .header-logo-container {
+    img {
+      width: 40%;
+    }
+  }
+}
+
+

@@ -1,0 +1,19 @@
+/*primary variable*/
+$primary: #dab047;
+$section-padding-top: 80px;
+$section-padding-bottom: 80px;
+
+/*import Bootstrap locally*/
+@import "../lib/bootstrap/scss/bootstrap.scss";
+
+/*import scss subfolders parts*/
+@import "../parts/header";
+@import "../parts/start";
+@import "../parts/about";
+@import "../parts/deals";
+@import "../parts/contact";
+@import "../parts/footer";
+
+
+
+
